@@ -1,1 +1,4 @@
-ReactDOM.render(<h1>hello, everyone!</h1>, document.getElementById("root"))
+import ReactDOM from 'react-dom'
+
+
+ReactDOM.render(<h1>Hello World!</h1>, document.getElementById("root"))
